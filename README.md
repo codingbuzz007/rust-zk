@@ -19,6 +19,4 @@ Install Rust using [rustup](https://rustup.rs/).
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-2. Solana CLI
-Install Solana CLI tools by following the Solana installation guide.
 

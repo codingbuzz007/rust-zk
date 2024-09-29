@@ -8,15 +8,4 @@ This project implements a simple **Support Vector Machine (SVM)** framework on *
 - **Solana smart contract** (program) that executes SVM predictions on-chain.
 - A **client** to send data to the Solana program and retrieve predictions.
 
----
-
-## Prerequisites
-
-Before getting started, make sure you have the following tools installed:
-
-### 1. Rust
-Install Rust using [rustup](https://rustup.rs/).
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
 
